@@ -64,7 +64,7 @@
 ## Risk Mitigation :
     If we have learned anything from history is that we are doomed to repeat it. Algorithms ,albeit altered, are based on theories such as Modern Portfolio theory and               thoery of probablity, certain significant events that happened in the past (for example : the 1987 crash , the blow up of LTCM being run by the same nobel prizr                 economists who canme up with these theories , the 2000 crash, 2006-08 crash) are the evidence in themselves that tails of the probability curve are indeed fatter                 than thought of. Certain individuals like Nassim Nicholas Taled , Beniot Mandlebrot, who beleive the inefficiences of the aforementioned theories have done                       significant work on risk mitigation and their work must be incorporated when designing any portfolio.
     I beleive that by including the suugestions mentioned above the company can significantly increase their business and this may give them an edge over their                       competitors. 
-## References :
+# References :
     -www.nestwealth.com
     -www.crunchbase.com
     -www.investopedia.com
